@@ -1,2 +1,2 @@
 # hello-world
-Example repository
+This example repository has been edited.
